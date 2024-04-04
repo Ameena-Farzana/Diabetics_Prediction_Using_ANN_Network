@@ -17,7 +17,7 @@ Overview of the dataset
 * diabetes: Binary variable indicating whether the individual has diabetes (1) or not (0).
 
 
-    The project revolves around predicting diabetes based on a comprehensive dataset encompassing various demographic and health-related features. The dataset includes information such as gender, age, presence of hypertension, heart disease status, smoking history, BMI, HbA1c level, blood glucose level, and diabetes status. The primary objective of the project is to develop a predictive model capable of accurately classifying individuals as diabetic or non-diabetic based on these features.
+The project revolves around predicting diabetes based on a comprehensive dataset encompassing various demographic and health-related features. The dataset includes information such as gender, age, presence of hypertension, heart disease status, smoking history, BMI, HbA1c level, blood glucose level, and diabetes status. The primary objective of the project is to develop a predictive model capable of accurately classifying individuals as diabetic or non-diabetic based on these features.
 
 The project workflow begins with data exploration, where the dataset's structure and characteristics are thoroughly examined. This phase involves assessing data quality, identifying missing values, and understanding the distribution of each feature through statistical summaries and visualizations. Following data exploration, preprocessing steps are implemented to address missing values and encode categorical variables, ensuring the data is suitable for model training.
 
