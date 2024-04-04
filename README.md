@@ -1,6 +1,7 @@
 # Diabetics_Prediction_Using_ANN_Network
 
-![Uploading image.png…]()
+![image](https://github.com/Ameena-Farzana/Diabetics_Prediction_Using_ANN_Network/assets/121862099/f992c898-c7ef-462a-beb1-a1200894d058)
+
 
 
 Overview of the dataset 
